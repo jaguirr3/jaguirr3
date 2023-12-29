@@ -8,7 +8,7 @@ I'm a self-taught Application Developer working for the world's largest Electric
 
 * 🌍  I'm based in Denver, CO
 * ✉️  You can contact me at [jonathan.aguirr3@gmail.com](mailto:jonathan.aguirr3@gmail.com)
-* 🧠  I'm learning SQL Database
+* 🧠  I'm learning SQL Database, Information Systems, and React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am into cold plunges, kickboxing, strength training, and skiing. Very Active!
 
