@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CRM Application Developer
 -------------------------
 
-I'm a self-taught Application Developer working for the world's largest Electrical Manufactor, Sonepar, receiving my Master's in Information Systems at the University of Colorado Denver, with 2+ years of experience.
+I'm a self-taught Application Developer working with Sonepar, one of the world's largest Electrical Manufactor, receiving my Master's in Information Systems at the University of Colorado Denver, with 2+ years of experience.
 
 * 🌍  I'm based in Denver, CO
 * ✉️  You can contact me at [jonathan.aguirr3@gmail.com](mailto:jonathan.aguirr3@gmail.com)
-* 🧠  I'm learning SQL Database, Information Systems, and React
+* 🧠  I'm learning SQL Database, Information Systems, and React Native
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am into cold plunges, kickboxing, strength training, and skiing. Very Active!
 
